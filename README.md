@@ -31,12 +31,12 @@ FitG is an application made for people who want to keep up with their training a
 
 
 ## Screenshots
-![Example screenshot](public/img/screenshots/login.PNG)
-![Example screenshot](public/img/screenshots/kalendarz.PNG)
-![Example screenshot](public/img/screenshots/profil.PNG)
-![Example screenshot](public/img/screenshots/aktywnosc.PNG)
-![Example screenshot](public/img/screenshots/dziennik.PNG)
-![Example screenshot](public/img/screenshots/admin.PNG)
+![login](https://user-images.githubusercontent.com/92271950/215123042-caf284cc-702b-483e-acc5-1f9e48423d1d.PNG)
+![kalendarz](https://user-images.githubusercontent.com/92271950/215123193-ad502f75-3034-4e6f-86d4-a98cb211f566.PNG)
+![profil](https://user-images.githubusercontent.com/92271950/215123225-59e6d8aa-939e-45de-814a-d931c5d33319.PNG)
+![aktywnosc](https://user-images.githubusercontent.com/92271950/215123241-91c58d80-e5ba-4e28-86e1-7c512ce6e337.PNG)
+![dziennik](https://user-images.githubusercontent.com/92271950/215123259-a39ea139-d48a-45af-aff9-cdfd60f9ca34.PNG)
+![admin](https://user-images.githubusercontent.com/92271950/215123277-8f7c03e0-c783-4dd5-b755-d61bc509bd3e.PNG)
 
 ## Usage
 - Register with your email 
